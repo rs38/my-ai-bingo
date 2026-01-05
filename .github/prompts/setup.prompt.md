@@ -1,6 +1,6 @@
 ---
 agent: agent
-description: Get my development workspace ready
+description: Get my shit development workspace ready
 tools: ['vscode/openSimpleBrowser', 'execute/runTask', 'read/getTaskOutput', 'execute/runInTerminal', 'read', 'search', 'todo']
 ---
 
